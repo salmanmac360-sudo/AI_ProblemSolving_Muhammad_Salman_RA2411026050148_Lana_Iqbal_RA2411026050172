@@ -35,3 +35,5 @@ This project implements a rule-based system using propositional logic to evaluat
 
 ## Sample Output
 Claim Approved
+
+Updated version
